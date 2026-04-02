@@ -1,0 +1,5 @@
+node_modules/
+runner-results/
+multi-reporter-config.json
+cypress/parallel-weights.json
+cypress.env.json
